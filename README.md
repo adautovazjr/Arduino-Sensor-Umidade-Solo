@@ -43,10 +43,8 @@ A prototipagem virtual foi realizada no **Tinkercad**, garantindo segurança e p
 
 <img src="Imagens/Display_Registro.jpg">
 
-![Protótipo Tinkercad](f176fe19-348f-4fdf-97c8-fec6b2dfbfff.png)
-
 ### 🔹 Exemplo de circuito com LCD e sensor de umidade
-![Circuito Arduino e Sensor](4d40c1b4-23d2-4d4c-b6fc-3ea679a074c1.png)
+<img src="Imagens/Inicializar_Display.jpg">
 
 ---
 

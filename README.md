@@ -47,19 +47,13 @@ A prototipagem virtual foi realizada no **Tinkercad**, garantindo segurança e p
 
 ---
 
-## 🌍 Educação Imersiva
-Além da estação de monitoramento, foi desenvolvido um **aplicativo educacional com Realidade Aumentada (RA)** e uma **experiência em Realidade Virtual (VR 360°)** que transporta o usuário para dentro das veredas.  
-Essa abordagem promove **aprendizado sensorial e interativo**, conectando alunos e comunidade à preservação ambiental.
-
----
-
 ## 🧑‍🔬 Equipe TecnoLife
 **Integrantes:**  
 Arthur Mundim de Oliveira · Davi Alvarenga Moreira · Gabriela Paiva · João Pedro Fontes Freitas · Julia Severiano Vaz da Costa · Manuela de Moraes Borges · Marcos Paulo Fontes Freitas · Matheus Henrique Martins Rocha
 
 **Mentor:** Rodolfo Borges  
-**Técnico:** Lorena Costa Silva  
-**Consultores Tecnológicos:** Adauto Costa · Jairo (orientação técnica Arduino e sensores)
+**Professora:** Lorena Costa Silva  
+**Consultor Tecnológicos:** Adauto Costa  (orientação técnica Arduino e sensores)
 
 ---
 
@@ -89,25 +83,6 @@ O trabalho seguiu abordagem **qualitativa e exploratória**, envolvendo:
 - **LCD 16x2**
 - **Unity + Vuforia (para RA)**
 - **Insta360 + WebXR (para VR 360°)**
-
----
-
-## 🏁 Conclusão
-O **Vereda Viva** demonstra que a integração entre **ciência, tecnologia e educação** é capaz de promover a **preservação ambiental** de forma sustentável, acessível e inspiradora.  
-A combinação de **monitoramento inteligente** com **educação imersiva** desperta o interesse científico e amplia o compromisso com o futuro do **Cerrado brasileiro**.
-
----
-
-> 📄 *“A verdadeira educação é um movimento permanente, em que educador e educando se transformam mutuamente.”*  
-> — Paulo Freire (2002)
-
----
-
-### 📸 Créditos de Imagens
-- Protótipos e circuitos: *Acervo TecnoLife (2025)*  
-- Diagramas e fotos das veredas: *Arquivo da equipe / visitas técnicas Ibama e Parque Santa Luzia*  
-
----
 
 ### 🏫 Colégio Batista Mineiro · Unidade Martins  
 **Uberlândia — Minas Gerais · 2025**

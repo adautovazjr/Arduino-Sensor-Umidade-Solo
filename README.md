@@ -40,6 +40,9 @@ A prototipagem virtual foi realizada no **Tinkercad**, garantindo segurança e p
 
 ## 🧩 Prototipagem Virtual
 ### 🔹 Montagem simulada no Tinkercad
+
+<img src="Imagens/Display_Registro.jpg">
+
 ![Protótipo Tinkercad](f176fe19-348f-4fdf-97c8-fec6b2dfbfff.png)
 
 ### 🔹 Exemplo de circuito com LCD e sensor de umidade

@@ -1,5 +1,11 @@
-# Arduino-Sensor-Umidade-Solo
-Protótipo do Sensor de Umidade do Solo com Arduino Uno 
+# Protótipo do Sensor de Umidade do Solo com Arduino Uno 
+
+![Created by](https://img.shields.io/badge/Created%20by-TecnoLife%20Team-blue)
+![Language](https://img.shields.io/badge/Language-Arduino-green)
+![Component](https://img.shields.io/badge/Hardware-Soil%20Sensor-lightgreen)
+![Display](https://img.shields.io/badge/LCD-I2C%2016x2-yellow)
+![Status](https://img.shields.io/badge/Stage-Prototype-orange)
+
 
 # 🌿 Vereda Viva: Monitoramento Inteligente e Educação Imersiva para a Preservação do Cerrado
 
@@ -40,10 +46,11 @@ A prototipagem virtual foi realizada no **Tinkercad**, garantindo segurança e p
 
 ## 🧩 Prototipagem Virtual
 ### 🔹 Montagem simulada no Tinkercad
-![Protótipo Tinkercad](f176fe19-348f-4fdf-97c8-fec6b2dfbfff.png)
+
+<img src="Imagens/Display_Registro.jpg">
 
 ### 🔹 Exemplo de circuito com LCD e sensor de umidade
-![Circuito Arduino e Sensor](4d40c1b4-23d2-4d4c-b6fc-3ea679a074c1.png)
+<img src="Imagens/Inicializar_Display.jpg">
 
 ---
 
